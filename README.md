@@ -24,6 +24,30 @@ Heart tumors are rare but can be life-threatening if not detected early. This pr
 - **Machine Learning Models:** Implementation of various algorithms to predict outcomes.
 - **Evaluation:** Model performance metrics including accuracy, precision, and recall.
 
+# Navigate to the project directory:
+cd heart-tumor-detection
+# Install the required packages:
+pip install -r requirements.txt
+# Usage
+# Open the Jupyter Notebook:
+jupyter notebook Heart Tumor Detection.ipynb
+
+heart-tumor-detection/
+├── Heart Tumor Detection.ipynb  # Main notebook file
+├── README.md                    # Project documentation
+├── requirements.txt             # Python dependencies
+└── data/                        # Data used in the project (not included by default)
+# Technologies Used
+# Programming Language: Python
+# Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/PyTorch (if applicable)
+# Environment: Jupyter Notebook
+
+
+### Instructions:
+- Update the repository name, link, and details as necessary.
+- Include a `requirements.txt` file with the necessary dependencies.
+- Add any additional notes relevant to the project.
+
 ## Installation
 
 1. Clone the repository:
